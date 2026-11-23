@@ -187,6 +187,6 @@
 
 ---
 
-## 🛠️ Contributing & Roadmap
+## 🛠️ Contributing & Feedback
 
-Detailed balance logs, art director prompts, and planned mechanics are documented in [`Feature_Added.md`](Feature_Added.md). Feel free to submit issues, balance feedback, or feature suggestions on the GitHub repository!
+Feel free to submit issues, balance feedback, or feature suggestions on the GitHub repository! Pull requests and discussions are always welcome.

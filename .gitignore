@@ -3,6 +3,11 @@
 # Excludes development scraps, reference sheets, raw textures, and cache files
 # ==============================================================================
 
+# Internal development tooling, references, and roadmap
+references/
+tools/
+Feature_Added.md
+
 # Raw reference textures, templates, and reference images
 references/raw_textures/
 tools/vanilla/
