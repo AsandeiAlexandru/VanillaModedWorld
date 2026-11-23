@@ -126,8 +126,8 @@
 | <img src="assets/2x/j_doubler.png" width="60" alt="Doubler" /> | **Doubler** | `Rare` | $8 | When **sold**, doubles all numerical values of a random owned Joker. |
 | <img src="assets/2x/j_burnt_offering.png" width="60" alt="Burnt Offering" /> | **Burnt Offering** | `Rare` | $8 | Destroys **1 random card** from 1st played hand of round and creates a random **Tarot**. |
 | <img src="assets/2x/j_the_scythe.png" width="60" alt="The Scythe" /> | **The Scythe** | `Rare` | $8 | If 1st hand has 3 cards, destroys 2 side cards & creates a permanent copy of middle card. |
-| <img src="assets/2x/j_stanczyk.png" width="60" alt="Stańczyk" /> | **Stańczyk** | `Legendary` | $20 | When Boss Blind is defeated, creates a **Negative + Eternal + Rental** copy of another owned Joker. |
-| <img src="assets/2x/j_sommers.png" width="60" alt="Sommers" /> | **Sommers** | `Legendary` | $20 | Discarded **Blue Seals** permanently grant **+20 Chips**; discarded **Red Seals** grant **+X0.25 Mult**. |
+| <img src="assets/2x/j_stanczyk_preview.png" width="60" alt="Stańczyk" /> | **Stańczyk** | `Legendary` | $20 | When Boss Blind is defeated, creates a **Negative + Eternal + Rental** copy of another owned Joker. |
+| <img src="assets/2x/j_sommers_preview.png" width="60" alt="Sommers" /> | **Sommers** | `Legendary` | $20 | Discarded **Blue Seals** permanently grant **+20 Chips**; discarded **Red Seals** grant **+X0.25 Mult**. |
 
 </details>
 
@@ -183,7 +183,6 @@
 
 - **[CardSleeves](https://github.com/Larswijn/CardSleeves)**: Fully integrated optional support. The **Echo Sleeve** automatically registers and becomes available in the sleeve selection menu if CardSleeves is installed, and gracefully sleeps if it is not present.
 - **[SlotManager](https://github.com/BlazeCrowner/SlotManager)**: Fully compatible — dynamically respects and allocates shop slots when **Market** (+1 Booster Pack slot) or **Supermarket** (+1 Voucher slot) are redeemed.
-- **Vanilla Localthunk Style**: Strict 71×95 (1x) and 142×190 (2x) nearest-neighbor pixel enforcement with authentic Balatro palettes.
 
 ---
 
