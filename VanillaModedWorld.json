@@ -1,0 +1,18 @@
+{
+  "id": "VanillaModedWorld",
+  "name": "Vanilla Moded World",
+  "display_name": "Vanilla Moded World",
+  "author": [
+    "User"
+  ],
+  "description": "A vanilla-style expansion adding new Jokers, Tarots, and more.",
+  "prefix": "vmw",
+  "main_file": "main.lua",
+  "dependencies": [
+    "Steamodded (>=26.829.0)"
+  ],
+  "priority": 0,
+  "badge_colour": "4BC292",
+  "badge_text_colour": "FFFFFF",
+  "version": "0.1.0"
+}
